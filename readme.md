@@ -65,7 +65,7 @@ install.packages("stats")  # for glm function
 ## 🚀 Usage
 1. Clone the repository
    ```bash
-   git clone [your-repo-url]
+   git clone (https://github.com/MujtabaJ30/Statistics-Project-Abililty-to-identify-AI-Genreated-text/tree/main)
    ```
 2. Ensure all required R packages are installed
 3. Update the file path in `V2.R` to point to your local copy of `Form_Responses.csv`
